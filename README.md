@@ -1,7 +1,7 @@
 # Find-S
 The following code demonstrates the find s algorithm using python
 
-** Create Excel file Weather.csv and save it in same path
+'''Create Excel file Weather.csv and save it in same path'''
 
 import csv
 def loadCsv(filename):
